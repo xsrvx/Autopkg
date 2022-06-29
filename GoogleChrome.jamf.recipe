@@ -15,13 +15,13 @@
 		<key>POLICY_CATEGORY</key>
 		<string>Applications</string>
 		<key>POLICY_NAME</key>
-		<string>Install Latest %NAME%</string>
+		<string>Google Chrome</string>
 		<key>POLICY_TEMPLATE</key>
 		<string>JamfPolicyTemplate.xml</string>
 		<key>SELF_SERVICE_DESCRIPTION</key>
-		<string>Install the latest version of Google Chrome.</string>
+		<string>Chrome is a fast, simple, and secure web browser, built for the modern web.</string>
 		<key>SELF_SERVICE_DISPLAY_NAME</key>
-		<string>Install Latest %NAME%</string>
+		<string>Google Chrome</string>
 		<key>SELF_SERVICE_ICON</key>
 		<string>GoogleChrome.png</string>
 		<key>UPDATE_PREDICATE</key>
