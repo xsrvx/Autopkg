@@ -26,6 +26,8 @@
 		<string>GoogleChrome.png</string>
 		<key>UPDATE_PREDICATE</key>
 		<string>pkg_uploaded == False</string>
+		<key>UPDATE_PREDICATE2</key>
+		<string>replace_policy == True</string>
 	</dict>
 	<key>MinimumVersion</key>
 	<string>2.3</string>
@@ -68,7 +70,7 @@
 			<key>Arguments</key>
 			<dict>
 				<key>predicate</key>
-				<string>replace_policy == True</string>
+				<string>%UPDATE_PREDICATE2%</string>
 			</dict>
 			<key>Processor</key>
 			<string>StopProcessingIf</string>
